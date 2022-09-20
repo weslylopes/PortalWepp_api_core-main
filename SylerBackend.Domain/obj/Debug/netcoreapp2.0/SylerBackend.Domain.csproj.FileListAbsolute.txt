@@ -1,0 +1,9 @@
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\bin\Debug\netcoreapp2.0\SylerBackend.Domain.deps.json
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\bin\Debug\netcoreapp2.0\SylerBackend.Domain.dll
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\bin\Debug\netcoreapp2.0\SylerBackend.Domain.pdb
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\obj\Debug\netcoreapp2.0\SylerBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\obj\Debug\netcoreapp2.0\SylerBackend.Domain.AssemblyInfoInputs.cache
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\obj\Debug\netcoreapp2.0\SylerBackend.Domain.AssemblyInfo.cs
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\obj\Debug\netcoreapp2.0\SylerBackend.Domain.dll
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\obj\Debug\netcoreapp2.0\SylerBackend.Domain.pdb
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Domain\obj\Debug\netcoreapp2.0\SylerBackend.Domain.csprojAssemblyReference.cache

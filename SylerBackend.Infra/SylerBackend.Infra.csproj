@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190615153015_add_cpf_cidade_whatsapp_in_contato.cs" />
+    <Compile Remove="Migrations\20190713000510_add_multi_level.cs" />
+    <Compile Remove="Migrations\20190713005444_key_not_increment_multi_level.cs" />
+    <Compile Remove="Migrations\20190713011949_add_multi_level.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SylerBackend.Domain\SylerBackend.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.4" />
+  </ItemGroup>
+
+</Project>

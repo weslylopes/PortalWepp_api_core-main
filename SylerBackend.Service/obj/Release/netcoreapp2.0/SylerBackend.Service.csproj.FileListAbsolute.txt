@@ -1,0 +1,14 @@
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Service.deps.json
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Service.dll
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Service.pdb
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Domain.dll
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Infra.dll
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Domain.pdb
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\bin\Release\netcoreapp2.0\SylerBackend.Infra.pdb
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.csprojAssemblyReference.cache
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.csproj.CoreCompileInputs.cache
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.AssemblyInfoInputs.cache
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.AssemblyInfo.cs
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.csproj.CopyComplete
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.dll
+C:\Projeto\BACK-END\portalwepp-api-core\SylerBackend.Service\obj\Release\netcoreapp2.0\SylerBackend.Service.pdb
